@@ -1,4 +1,4 @@
-.texto{
+.texto2{
     text-align: center;
 
 }
@@ -12,4 +12,9 @@
 
 button{
     position:absolute; top: 90%; left: 50%;
+}
+
+.titulo2{
+
+    text-align: center;
 }
