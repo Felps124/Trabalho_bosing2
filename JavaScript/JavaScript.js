@@ -7,3 +7,24 @@ function avanco(){
  
     
 }
+
+function avanco2(){
+ 
+    
+}
+
+function avanco3(){
+ 
+    
+}
+
+
+function volta(){
+ 
+    
+}
+function volta2(){
+ 
+    
+}
+
