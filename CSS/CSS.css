@@ -1,0 +1,15 @@
+.texto{
+    text-align: center;
+
+}
+
+
+
+#topico{
+
+        text-align: left;
+}
+
+button{
+    position:absolute; top: 90%; left: 50%;
+}
