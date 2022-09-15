@@ -10,11 +10,15 @@
         text-align: left;
 }
 
-button{
+.botaoAvancar{
     position:absolute; top: 90%; left: 50%;
 }
 
 .titulo2{
 
     text-align: center;
+}
+
+.botaoAvancar2{
+    position:absolute; top: 50%; left: 50%;
 }
